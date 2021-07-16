@@ -1,0 +1,14 @@
+{
+    "DEFAULTS": {
+        "AUTHORS": [843926706611028028],
+        "ACTIVITY_TEXT": "🎈İyiki Dogdun Özge🎈",
+        "GUILD_ID": "860068981799780363",
+        "VOICE_CHANNEL": "860074073043763220",
+        "MIN_STAFF_ROLE": "860096806649200650"
+    },
+    "FILES": {
+        "WELCOME": "default_files/ikiye-on-kala-butun-istanbul-biliyo.mp3",
+        "STAFF": "default_files/ikiye-on-kala-butun-istanbul-biliyo.mp3"
+    },
+    "TOKEN": "ODYxNjcwNjQ1Njk2MTY3OTc2.YONLUw.Avz_aGiaYj6YYc_rBhk2ATo_7w0"
+}
